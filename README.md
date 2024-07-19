@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/getinet-s-zeleke-319545201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="getinet-s-zeleke-319545201" height="30" width="40" /></a>
 </p>
-<a href="https://t.me/gtnt_slsh" target="blank"><img align="center" src="https://tse4.mm.bing.net/th/id/OIP.Hh5VyNdlKsx9G_1SzAvRZwHaHa?rs=1&pid=ImgDetMain" alt="gtnt_slsh" height="30" width="40" /></a>
+<a href="https://t.me/gtnt_slsh" target="blank"><img align="center" src="https://th.bing.com/th/id/R.0236966d3eac733b4c854be437dd59e4?rik=BlRezsQYYosGBg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-RIyjJ6Iad1s%2fVOivaid-xRI%2fAAAAAAAA8jI%2fW4cXGA9llDA%2fs1600%2fTelegram_logo.png&ehk=kxIV9%2fZ3x%2bjx2C27TADBnrWUcs8ZQjFwPahsOqzwApk%3d&risl=&pid=ImgRaw&r=0" alt="gtnt_slsh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
