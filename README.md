@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gtnt-sileshi&show_icons=true&locale=en" alt="gtnt-sileshi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gtnt-sileshi&" alt="gtnt-sileshi" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gtnt-sileshi&" alt="gtnt-sileshi" /></p>
