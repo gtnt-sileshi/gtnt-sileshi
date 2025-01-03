@@ -9,10 +9,10 @@
   <img align="right" alt="Coding" width="400" src="https://github.com/gtnt-sileshi/gtnt-sileshi/blob/main/image.png?raw=true"/>
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gtnt-sileshi&label=Profile%20views&color=0e75b6&style=flat" alt="gtnt-sileshi" /> </p>
-🌐 Public Repositories: 5 </br> 
-🔒 Private Repositories: 46
+🌐 Public Repositories: 7+ </br> 
+🔒 Private Repositories: 50+
 
-- 📫 How to reach me **getufreelancer@gmail.com**
+- 📫 How to reach me **gtntsileshi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
